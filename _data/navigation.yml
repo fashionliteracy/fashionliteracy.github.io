@@ -13,39 +13,50 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: "Technology"
+    url: "/technology/"
+  - title: "Lifestyle"
+    url: "/design-and-lifestyle/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
 - title: News
-  url: ""
+  url: "#"
   side: left
   dropdown:
   - title: "Newletter"
-    url: ""
+    url: "/newsletter/"
   - title: "Industry"
-    url: ""
+    url: "/news/industry/"
   - title: "Exams"
-    url: ""
+    url: "/news/exams/"
 
-- title: Tutorials
-  url: ""
-  side: left
-  dropdown:
-  - title: "Python"
-    url: ""
-  - title: "Data Science"
-    url: ""
 
-- title: Shop
-  url: ""
+- title: Products
+  url: "#"
   side: left
   dropdown:
   - title: "3DP Merchandize"
-    url: ""
+    url: "#"
   - title: "Courses"
-    url: ""
+    url: "#"
   - title: "Books"
-    url: ""
+    url: "#"
+  - title: "Fashion Weekly"
+    url: "#"
+
+- title: Free Resources
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Tutorials"
+    url: "#"
+  - title: "Questions"
+    url: "#"
+  - title: "GD Topics"
+    url: "#"
+  - title: "Project Topics"
+    url: "#"
 
 # - title: "Templates"
 # url: "/design/"
