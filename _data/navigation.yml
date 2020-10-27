@@ -14,9 +14,11 @@
   side: left
   dropdown:
   - title: "Technology"
-    url: "/technology/"
+    url: "/blog/technology/"
   - title: "Lifestyle"
-    url: "/design-and-lifestyle/"
+    url: "/blog/design-and-lifestyle/"
+  - title: "Entrance Exams"
+    url: "/blog/exams/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
@@ -28,8 +30,6 @@
     url: "/newsletter/"
   - title: "Industry"
     url: "/news/industry/"
-  - title: "Exams"
-    url: "/news/exams/"
 
 
 - title: Products
@@ -37,26 +37,26 @@
   side: left
   dropdown:
   - title: "3DP Merchandize"
-    url: "#"
+    url: "/products/3dp-merchandize"
   - title: "Courses"
-    url: "#"
+    url: "/products/courses/"
   - title: "Books"
-    url: "#"
+    url: "/products/books/"
   - title: "Fashion Weekly"
-    url: "#"
+    url: "/products/weekly/"
 
 - title: Free Resources
   url: "#"
   side: left
   dropdown:
   - title: "Tutorials"
-    url: "#"
-  - title: "Questions"
-    url: "#"
+    url: "/resources/tutorials/"
+  - title: "quizzes"
+    url: "/resources/quizzes/"
   - title: "GD Topics"
-    url: "#"
+    url: "/resources/gd-topics/"
   - title: "Project Topics"
-    url: "#"
+    url: "/resources/project-topics/"
 
 # - title: "Templates"
 # url: "/design/"

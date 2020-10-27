@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Industry news on fashion and technology"
 subheadline: "Fashion industry news"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header_industry.jpg"
+sitemap: false
 permalink: "/news/industry/"
 ---
 

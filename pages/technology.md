@@ -1,16 +1,14 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Use of technology in Fashion"
 subheadline: "Fashion and Technology"
+breadcrumb: true
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/technology/"
+   image_fullwidth: "header_technology.jpg"
+permalink: "/blog/technology/"
 ---
 
 
-<ul>
-    {% for post in site.categories.technology %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{: .t60 }
+{% include list-posts category='technology' %}

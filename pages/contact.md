@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Send your message"
 meta_title: "Contact and use our contact form"
 # subheadline: "Talk to us"
 teaser: "Get in touch with us? Use the contact form."
+header:
+    image_fullwidth: header_contact_us.jpg
 permalink: "/contact/"
 ---
 

@@ -8,11 +8,15 @@ breadcrumb: true
 tags:
     - 3D Printing
 categories:
+    - blog
     - technology
 image:
     thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
     caption_url: http://unsplash.com
+header:
+    image_fullwidth: 3d_printed_collections_vd2iad.jpg 
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 
 # image: assets/img/3d_printed_collections.jpg
 # image: https://res.cloudinary.com/jitendrasingh/image/upload/v1597822542/fashionliteracy/3d_printed_collections_vd2iad.jpg

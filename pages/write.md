@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Write for Us"
 meta_title: "Write for FashionLiteracy"
 subheadline: "You are invited to write for FashionLiteracy"
 teaser: " Writing is a great way to share your thoughts with the world. It also helps in establishing yourself as a subject matter expert in your field. We too encourage writers to submit their ideas and write content for us. Due to the
 high number of requests for writing, we decided to put a Write for Us page"
+header:
+   image_fullwidth: "header_unsplash_4.jpg"
 
 permalink: /write-for-us/
 ---
@@ -45,4 +47,4 @@ ideas too. Please submit your ideas using our Idea submission form below.
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCapLzLe5VVM7GxtLDAMI4WWubjO55mE8sS2MQAa5DxOeqfw/viewform?embedded=true" 
-width="640" height="1800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+width="900" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

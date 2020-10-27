@@ -1,21 +1,28 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
-title: "News on entrance exams of fashion colleges"
-subheadline: "Fashion College exams News"
+title: "Prepare for entrance exams of fashion colleges"
+subheadline: "Fashion Colleges Entrance Exams"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/news/exams/"
+   image_fullwidth: "header_exams.jpg"
+permalink: "/blog/exams/"
 ---
 
 <br>
-<br>
 
-> <h3> Coming Soon..</h3>
+> 
+> Don't watch the clock. Do what it does. Keep going.
 >
 >
-<ul>
-    {% for post in site.categories.examnews %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+
+<h3> NIFT - National Institute Of Fashion Technology </h3>
+
+Here, we have collected all the articles that will help you in preparing for
+your NIFT exams.
+
+{: .t60 }
+{% include list-posts tag='NIFT exams' %}
+
+<br/>
+
+> Content for other exams will be listed soon..

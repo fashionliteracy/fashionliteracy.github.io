@@ -1,7 +1,10 @@
 ---
 permalink: /search/
-layout: page
+layout: page-fullwidth
 title: "Search"
+
+header:
+    image_fullwidth: "header_search.jpg"
 sitemap: false
 ---
 
