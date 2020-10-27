@@ -120,7 +120,7 @@ We have refined our marketing efforts and have adopted more sane ways to reach
 out to our readers. [Subsribe to
 FashionLiteracy](https://feedburner.google.com/fb/a/mailverify?uri=Fashionliteracy&amp;loc=en_US)
 for more updates. Read our [Free
-Newsletter](http://newsletter.fashionliteracy.com) to stay on top of the latest
+Newsletter](http://newsletter.fashionliteracy.com/?edition_id=fd3da930-1719-11eb-8f10-0cc47a0d1609#/) to stay on top of the latest
 events in Fashion Design and Technology.
 
 
