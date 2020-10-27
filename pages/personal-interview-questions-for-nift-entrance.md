@@ -1,4 +1,3 @@
-
 ---
 title: "Personal Interview Questions For Nift Entrance"
 layout: redirect

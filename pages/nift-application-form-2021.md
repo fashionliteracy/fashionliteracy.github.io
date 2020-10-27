@@ -1,4 +1,3 @@
-
 ---
 title: "Nift Application Form 2021"
 layout: redirect

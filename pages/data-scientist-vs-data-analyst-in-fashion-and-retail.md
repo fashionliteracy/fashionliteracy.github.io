@@ -1,4 +1,3 @@
-
 ---
 title: "Data Scientist Vs Data Analyst In Fashion And Retail"
 layout: redirect

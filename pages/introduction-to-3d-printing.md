@@ -1,4 +1,3 @@
-
 ---
 title: "Introduction To 3D Printing"
 layout: redirect

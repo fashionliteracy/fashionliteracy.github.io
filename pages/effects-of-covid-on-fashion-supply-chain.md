@@ -1,4 +1,3 @@
-
 ---
 title: "Effects Of Covid On Fashion Supply Chain"
 layout: redirect

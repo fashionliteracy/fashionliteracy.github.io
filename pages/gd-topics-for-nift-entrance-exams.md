@@ -1,4 +1,3 @@
-
 ---
 title: "Gd Topics For Nift Entrance Exams"
 layout: redirect

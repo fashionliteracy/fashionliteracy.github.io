@@ -1,4 +1,3 @@
-
 ---
 title: "National Institute Of Fashion Technology"
 layout: redirect

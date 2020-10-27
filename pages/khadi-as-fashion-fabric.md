@@ -1,4 +1,3 @@
-
 ---
 title: "Khadi As Fashion Fabric"
 layout: redirect

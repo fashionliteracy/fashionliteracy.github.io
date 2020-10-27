@@ -1,4 +1,3 @@
-
 ---
 title: "We Are Turning Into Fashion Slaves"
 layout: redirect
