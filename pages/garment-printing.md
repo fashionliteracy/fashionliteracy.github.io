@@ -1,4 +1,3 @@
-
 ---
 title: "Garment Printing"
 layout: redirect
