@@ -9,54 +9,35 @@ permalink: "/newsletter/"
 ---
 
 
-## FashionFlyer Edition on 26th October 2020
+## Previous FashionFlyer Editions
 
 <br>
 <div class="row">
+
   <div class="large-6 columns">
+      <h5>FashionLiteracy Newsletter 28th October 2020</h5>
+      <br>
       <a
-      href="/news/newsletter/fashionflyer-on-instagram-brands-lotus-make-up-fashion-week-and-fast-fasion-woes/">
-      <img src="../images/newsletter_26_oct_post1.jpg">
+      href="http://newsletter.fashionliteracy.com/?edition_id=08f0af00-187a-11eb-8f10-0cc47a0d1609">
+      <img src="{{site.urlimg}}/evelyn-sharma.jpg">
       </a>
+      <br/>
+      <p>FashionLiteracy witnessed many changes in India's Fashion industry.  Fashion chooses to continue and keep the show on. The new fashion system displays examples of innovation and creativity
+      </p>
   </div>
   <div class="large-6 columns">
-  <a
-  href="/news/newsletter/fashionflyer-on-instagram-brands-lotus-make-up-fashion-week-and-fast-fasion-woes/">
-      <img src="../images/newsletter_26_oct_post2.jpg">
+      <h5>FashionLiteracy Newsletter 26th October 2020</h5>
+      <br>
+      <a
+      href="http://newsletter.fashionliteracy.com/?edition_id=fd3da930-1719-11eb-8f10-0cc47a0d1609">
+      <img src="{{site.urlimg}}/newsletter_26_oct_post2.jpg">
       </a>
-  </div>
-  <!--
-  <div class="large-4 columns">
-      <img src="http://placehold.it/303x170/fabb00/771e1e&amp;text=Width+303+Pixel">
-  </div>
-  -->
-</div>
-
-
-<div class="row">
-  <div class="large-6 columns">
+      <br>
       <p>
 Have you ever wanted to setup your business through instagram? These days most
 of celebrities are quite active on the platform, which is an apostle of
 opportunity, freedom, and unstoppable expression.
   </p>
-  
   </div>
-
-  <div class="large-6 columns">
-    <p> 
-Due to situations posed by the ongoing pandemic, Lotus Make-up India Fashion
-Week SS21 too its Phygital avatar this year. 
-
-There is nothing that can challenge the indomitable spirit of Fashion world
-wide. Fashion industry has gone stronger amid COVID-19 out and are in the open to serve others.
-</p>
-
-  </div>
-<!--
-  <div class="large-4 columns">
-  
-      <p>This is a text </p>
-  </div>
-  -->
 </div>
+
