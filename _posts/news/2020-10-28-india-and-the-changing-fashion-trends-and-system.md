@@ -3,7 +3,7 @@ layout: page-fullwidth
 #
 # Content
 #
-subheadline: "Fashionflyer on 26th October 2020"
+subheadline: "Fashionflyer on 28th October 2020"
 title: "India and the changing fashion trends and system"
 teaser: "FashionLiteracy witnessed many changes in India's Fashion industry.  Fashion chooses to continue and keep the show on. The new fashion system displays examples of innovation and creativity"
 meta_description: newsletter by FashionLiteracy on 28th October 2020 
