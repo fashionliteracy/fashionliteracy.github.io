@@ -80,5 +80,5 @@ FashionLiteracy](https://feedburner.google.com/fb/a/mailverify?uri=Fashionlitera
 for more updates. 
 
 Read our [Free
-Newsletter](http://newsletter.fashionliteracy.com/?edition_id=08f0af00-187a-11eb-8f10-0cc47a0d1609) to stay on top of the latest
+Newsletter](http://newsletter.fashionliteracy.com/?edition_id=311205a0-1943-11eb-8f10-0cc47a0d1609) to stay on top of the latest
 events in Fashion Design and Technology.
