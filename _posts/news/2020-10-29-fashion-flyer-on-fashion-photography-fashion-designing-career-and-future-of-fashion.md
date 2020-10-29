@@ -35,9 +35,6 @@ photographers in the 1930's and 1940's such as Louise Dahl-Wolfe and
 photographers of today such as Collier Schorr.
 
 <p><img src="{{site.url}}/images/newsletter_29_oct_post1.jpg" alt="" srcset="            {{site.url}}/assets/resized/320/newsletter_29_oct_post1.jpg 320w,            {{site.url}}/assets/resized/480/newsletter_29_oct_post1.jpg 480w,            {{site.url}}/assets/resized/800/newsletter_29_oct_post1.jpg 800w,            {{site.url}}/assets/resized/1400/newsletter_29_oct_post1.jpg 1400w,    " /></p>
-<!--
-{% responsive_image path: images/newsletter_29_oct_post1.jpg alt="Fashion Photography in post pandemic environment" %}
--->
 
 Consumer behavior towards fashion has seen a drastic shift from looking at the
 artistic value of a picture representing emotions such as freedom, fantasy,
@@ -54,9 +51,6 @@ software, data analytics have changed the fashion design paradigm.
 
 
 <p><img src="{{site.url}}/images/newsletter_29oct_post2.png" alt="" srcset="            {{site.url}}/assets/resized/320/newsletter_29oct_post2.png 320w,            {{site.url}}/assets/resized/480/newsletter_29oct_post2.png 480w,            {{site.url}}/assets/resized/800/newsletter_29oct_post2.png 800w,            {{site.url}}/assets/resized/1400/newsletter_29oct_post2.png 1400w,    " /></p>
-<!--
-{% responsive_image path: images/newsletter_29oct_post2.png alt="Career in Fashion Designing" %}
--->
 
 If you want to be the next-gen fashion designer then you need to have the
 ability to envision, drawing skills, sewing skills, and knowledge of embroidery
