@@ -34,8 +34,8 @@ fashion. The author provides textual glimpses of the legendary fashion
 photographers in the 1930's and 1940's such as Louise Dahl-Wolfe and
 photographers of today such as Collier Schorr.
 
-![Fashion Photography in post pandemic
-environment]({{ site.urlimg }}/newsletter_29_oct_post1jpg)
+
+{% responsive_image path: images/newsletter_29_oct_post1.jpg alt="Fashion Photography in post pandemic environment" %}
 
 Consumer behavior towards fashion has seen a drastic shift from looking at the
 artistic value of a picture representing emotions such as freedom, fantasy,
@@ -51,7 +51,8 @@ In these recent years, the increased use and advances of technologies,
 software, data analytics have changed the fashion design paradigm.
 
 
-![Career in Fashion Designing]({{ site.urlimg }}/newsletter_29oct_post2.png)
+
+{% responsive_image path: images/newsletter_29oct_post2.png alt="Career in Fashion Designing" %}
 
 If you want to be the next-gen fashion designer then you need to have the
 ability to envision, drawing skills, sewing skills, and knowledge of embroidery
