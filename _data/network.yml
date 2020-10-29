@@ -1,21 +1,21 @@
 - menu_name: "Products"
 
 - name: "3D Merchandize"
-  url: "http://fashionliteracy/products/3dp-merchandize"
+  url: "https://fashionliteracy.com/products/3dp-merchandize"
   class: "network-entypo"
   title: "3DP objects by FashionLiteracy"
 
 - name: "Books"
-  url: "https://fashionliteracy/products/books"
+  url: "https://fashionliteracy.com/products/books"
   class: "services-newsletter"
   title: "Books by FashionLiteracy"
 
 - name: "Courses"
-  url: "https://fashionliteracy/products/courses"
+  url: "https://fashionliteracy.com/products/courses"
   class: "courses"
   title: "Courses by FashionLiteracy"
 
 - name: "Fashion Weekly"
-  url: "https://fashionliteracy/products/weekly"
+  url: "https://fashionliteracy.com/products/weekly"
   class: "weekly"
   title: "Fashion Weekly by FashionLiteracy"
