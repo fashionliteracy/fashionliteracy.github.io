@@ -5,12 +5,7 @@ layout: page
 #
 subheadline: "Fashionflyer on 29th October 2020"
 title: "Fashion Flyer On Fashion Photography, Fashion Designing Career, And Future Of Fashion"
-teaser: "Explore your passion for fashion photography and adapt to the change
-in the behavior of fashion consumers of today. Know more about the skills that
-you will need to remain relevant as a modern fashion designer amid this new world
-of studies going virtual and online. Look forward and learn from brands that
-have an eye towards empathy, support, and charity towards modern digital
-consumers."
+teaser: "Explore your passion for fashion photography and adapt to the change in the behavior of fashion consumers of today. Know more about the skills that you will need to remain relevant as a modern fashion designer amid this new world of studies going virtual and online. Look forward and learn from brands that have an eye towards empathy, support, and charity towards modern digital consumers."
 meta_description: newsletter by FashionLiteracy on 29th October 2020 
 categories:
   - news
