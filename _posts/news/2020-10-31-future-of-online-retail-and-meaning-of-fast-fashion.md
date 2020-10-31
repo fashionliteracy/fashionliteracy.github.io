@@ -29,7 +29,7 @@ As a brand, if you are wondering how to make use of technology to build long las
 relationship with customers then look no further and explore following
 options:-
 
-<p><img src="http://localhost:4000/images/newsletter_31_oct_post1.jpg" alt="Technologies for personal relationships with customers" srcset="            http://localhost:4000/assets/resized/320/newsletter_31_oct_post1.jpg 320w,            http://localhost:4000/assets/resized/480/newsletter_31_oct_post1.jpg 480w,    " /></p>
+<p><img src="{{site.url}}/images/newsletter_31_oct_post1.jpg" alt="Technologies for personal relationships with customers" srcset="            {{site.url}}/assets/resized/320/newsletter_31_oct_post1.jpg 320w,            {{site.url}}/assets/resized/480/newsletter_31_oct_post1.jpg 480w,    " /></p>
 
 1. Go digital first
 2. Collect your own data
@@ -48,7 +48,7 @@ For long, we have misunderstood Fashion Fashion. What does it really mean? In
 some ways fast fashion is good for all but it also brings some negatives along
 with it.
 
-<p><img src="http://localhost:4000/images/newsletter_31_oct_post2.jpg" alt="Fast Fashion and its mearning" srcset="            http://localhost:4000/assets/resized/320/newsletter_31_oct_post2.jpg 320w,            http://localhost:4000/assets/resized/480/newsletter_31_oct_post2.jpg 480w,            http://localhost:4000/assets/resized/800/newsletter_31_oct_post2.jpg 800w,    " /></p>
+<p><img src="{{site.url}}/images/newsletter_31_oct_post2.jpg" alt="Fast Fashion and its mearning" srcset="            {{site.url}}/assets/resized/320/newsletter_31_oct_post2.jpg 320w,            {{site.url}}/assets/resized/480/newsletter_31_oct_post2.jpg 480w,            {{site.url}}/assets/resized/800/newsletter_31_oct_post2.jpg 800w,    " /></p>
 
 
 Katherine Saxon debunks the misunderstood definition of fast fashion and voices her opinion
@@ -67,7 +67,7 @@ with the help of technology, we recommend exploring the option of bringing
 virtual try on options to your online retail stores.
 
 
-<p><img src="http://localhost:4000/images/newsletter_31_oct_post3.jpg" alt="Virtual try on by Zyler" srcset="            http://localhost:4000/assets/resized/320/newsletter_31_oct_post3.jpg 320w,            http://localhost:4000/assets/resized/480/newsletter_31_oct_post3.jpg 480w,            http://localhost:4000/assets/resized/800/newsletter_31_oct_post3.jpg 800w,    " /></p>
+<p><img src="{{site.url}}/images/newsletter_31_oct_post3.jpg" alt="Virtual try on by Zyler" srcset="            {{site.url}}/assets/resized/320/newsletter_31_oct_post3.jpg 320w,            {{site.url}}/assets/resized/480/newsletter_31_oct_post3.jpg 480w,            {{site.url}}/assets/resized/800/newsletter_31_oct_post3.jpg 800w,    " /></p>
 
 Aileen Yu interviews the CEO of Zyler and brings more details on Anthropics
 Technology, inspiration behind Zyler, and the ways Zyler aims to make online
