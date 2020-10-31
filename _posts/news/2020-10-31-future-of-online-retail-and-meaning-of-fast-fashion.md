@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "Fashionflyer on 31st October 2020"
 title: "Future of online retail and the meaning of fast fashion"
 teaser: "Be among the first to adopt new technologies to enhance customer engagement and learn the real meaning of fast fashion."
 categories:
@@ -44,7 +44,7 @@ https://www.itproportal.com/features/can-technology-make-relationships-with-bran
 
 ### Fast Fashion and its real meaning
 
-For long, we have misunderstood Fashion Fashion. What does it really mean? In
+For long, we have misunderstood Fast Fashion. What does it really mean? In
 some ways fast fashion is good for all but it also brings some negatives along
 with it.
 
