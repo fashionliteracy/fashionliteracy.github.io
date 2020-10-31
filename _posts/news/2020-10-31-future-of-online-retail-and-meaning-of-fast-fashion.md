@@ -6,6 +6,7 @@ layout: page
 subheadline: "Fashionflyer on 31st October 2020"
 title: "Future of online retail and the meaning of fast fashion"
 teaser: "Be among the first to adopt new technologies to enhance customer engagement and learn the real meaning of fast fashion."
+meta_description: newsletter by FashionLiteracy on 31st October 2020 
 categories:
   - news
   - newsletter
