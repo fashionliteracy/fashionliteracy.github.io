@@ -15,29 +15,30 @@ permalink: "/newsletter/"
 <div class="row">
 
   <div class="large-6 columns">
-      <h5>FashionLiteracy Newsletter 28th October 2020</h5>
+      <h5>FashionLiteracy Newsletter 31st October 2020</h5>
       <br>
       <a
-      href="http://newsletter.fashionliteracy.com/?edition_id=08f0af00-187a-11eb-8f10-0cc47a0d1609">
-      <img src="{{site.urlimg}}/evelyn-sharma.jpg">
+      href="http://newsletter.fashionliteracy.com/?edition_id=86ca8e70-1ad5-11eb-8f10-0cc47a0d1609">
+      <img src="{{site.urlimg}}/newsletter_31_oct_post1.jpg">
       </a>
       <br/>
-      <p>FashionLiteracy witnessed many changes in India's Fashion industry.  Fashion chooses to continue and keep the show on. The new fashion system displays examples of innovation and creativity
+      <p>
+      Be among the first to adopt new technologies to enhance customer engagement and learn the real meaning of fast fashion.
       </p>
   </div>
   <div class="large-6 columns">
-      <h5>FashionLiteracy Newsletter 26th October 2020</h5>
+      <h5>FashionLiteracy Newsletter 30th October 2020</h5>
       <br>
       <a
-      href="http://newsletter.fashionliteracy.com/?edition_id=fd3da930-1719-11eb-8f10-0cc47a0d1609">
-      <img src="{{site.urlimg}}/newsletter_26_oct_post2.jpg">
+      href="http://newsletter.fashionliteracy.com/?edition_id=5d4ab940-1a0c-11eb-8f10-0cc47a0d1609/">
+      <img src="{{site.urlimg}}/newsletter_30_oct_post1.jpg">
       </a>
       <br>
       <p>
-Have you ever wanted to setup your business through instagram? These days most
-of celebrities are quite active on the platform, which is an apostle of
-opportunity, freedom, and unstoppable expression.
+      Follow the leaders of the fashion industry to support Black Lives Matter movement. The support is growing all over the world to bring equality and solidarity with the help of this movement and fashion brands. Know about positives of pandemic and empathetic moves of fashion brands to support vulnerable workers
   </p>
   </div>
 </div>
 
+{: .t60 }
+{% include list-posts category='newsletter' %}
