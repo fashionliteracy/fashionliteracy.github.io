@@ -81,3 +81,10 @@ article by Martino Carrera.
 [Young Designers Should ‘Build a Community, Act Locally,’ ITS Jurors
 Say](https://wwd.com/fashion-news/fashion-features/young-designers-should-build-community-act-locally-its-jurors-say-1234650123/).
 
+<hr>
+
+To follow website updates and recive them on emails [Subscribe to
+FashionLiteracy](https://feedburner.google.com/fb/a/mailverify?uri=Fashionliteracy&amp;loc=en_US).
+
+To know more news on 31st October and to stay updated, read our [Free
+Newsletter](http://newsletter.fashionliteracy.com/?edition_id=c91a5160-1b9e-11eb-8f10-0cc47a0d1609).
