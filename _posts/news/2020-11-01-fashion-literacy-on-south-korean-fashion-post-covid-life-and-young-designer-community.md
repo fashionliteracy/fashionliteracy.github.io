@@ -60,7 +60,8 @@ sustainable ways to move forward.
 
 To know about impact on paticipation in Fashion Weeks, virtual runways, and
 existing schedule read and amazing short article ; [
-What Will Fashion Look Like After COVID?] by Alexa Rae R.
+What Will Fashion Look Like After
+COVID?](https://www.hercampus.com/school/montclair/what-will-fashion-look-after-covid) by Alexa Rae R.
 
 ### Young Designers Need To Join Local Communities
 
