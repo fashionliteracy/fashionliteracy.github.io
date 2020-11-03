@@ -78,8 +78,9 @@ bright, forward-thinking and hopeful.
 
 For Andrew jackdown, these collections were cool and desirable. Have a look at the
 playful and fun displayed in jumpsuites, slip dresses, jackets, blouses and
-others 
-https://www.jandrewspeaks.com/2020/10/31/faun-studio-shows-celestial-beauty-at-vancouver-fashion-week-s-s-2021/.
+others in [FAUN STUDIO SHOWS CELESTIAL BEAUTY AT VANCOUVER FASHION WEEK S/S
+2021](
+https://www.jandrewspeaks.com/2020/10/31/faun-studio-shows-celestial-beauty-at-vancouver-fashion-week-s-s-2021/)
 
 <hr>
 
