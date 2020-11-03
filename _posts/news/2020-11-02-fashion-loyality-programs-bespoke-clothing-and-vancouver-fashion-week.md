@@ -4,12 +4,12 @@ layout: page
 # Content
 #
 subheadline: "Fashionflyer on 02nd November 2020"
-title: "Fashion loyalty trends, bespoke cloting, and Vancouver Fashion S/S 2021  "
+title: "Fashion loyalty trends, bespoke clothing, and Vancouver Fashion S/S 2021  "
 teaser: "We are adopting trends that were popular in past with and an eye towards
 newer benefits and rewards as customers, and present more challenges amid
 pandemic. Moreover, have a look at the designer's show at an online Virtual
 show by Faun Studio in Vancouver Fashion S/S 2021"
-meta_description: newsletter by FashionLiteracy on 29th October 2020 
+meta_description: newsletter by FashionLiteracy on 02 November 2020 
 categories:
   - news
   - newsletter
