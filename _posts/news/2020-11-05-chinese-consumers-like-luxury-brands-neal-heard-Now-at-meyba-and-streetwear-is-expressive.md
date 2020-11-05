@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Fashionflyer on 05th November 2020"
 title: "Chinese Consumers Like Luxury Brands, Neal Heard Now at Meyba, and Streetwear is expressive"
-teaser: "Streetwear finds expressions in Sportswear and is gaining poularity in
+teaser: "Streetwear finds expressions in Sportswear and is gaining popularity in
 West Africa. While Streetwear catches on with young people, Luxury brands bring more revenues from China. Read more..."
 meta_description: "Fashion Literacy newsletter of 05th November covers articles on Neal Heard, Luxury brands in China, and Steetwear popularity in Africa."
 categories:
