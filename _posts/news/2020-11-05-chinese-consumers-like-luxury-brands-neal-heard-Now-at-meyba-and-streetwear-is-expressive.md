@@ -61,7 +61,7 @@ and worldwide.
 
 <p><img src="{{site.url}}/images/resized/480/newsletter_05_nov_post3.jpg" alt="Streetwear becomes medium of expression" srcset="            {{site.url}}/images/resized/320/newsletter_05_nov_post3.jpg 320w,            {{site.url}}/images/resized/480/newsletter_05_nov_post3.jpg 480w,            {{site.url}}/images/resized/600/newsletter_05_nov_post3.jpg 600w,    " /></p>
 
-In Africa, streetwear has been adopted by young people because it allows them to 
+Streetwear has been adopted by young people because it allows them to 
 combine the hip hop and skate culture with their local style to communicate their own 
 realities.
 
