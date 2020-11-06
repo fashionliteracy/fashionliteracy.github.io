@@ -26,8 +26,8 @@ header:
 
 ### Desi Bellé by Killer Jeans
 
-India's leading denim brand, Killer Jeans, has launched a brand Desi Bele under
-their "www" campaign. Quite exiting activities are planned by Killer Jeans as
+India's leading denim brand, Killer Jeans, has launched a brand Desi Bellé under
+their "www" campaign. Quite exciting activities are planned by Killer Jeans as
 part of social media viral content marketing, influencer tie-ups, and
 merchandizing.
 
@@ -46,7 +46,7 @@ by
 ### Gucci's Film Festival
 
 Industry power houses have been pondering and trying to bring their innovative
-responses to the hard ships posed by pandemic and climate crisis.
+responses to the hardships posed by pandemic and climate crisis.
 
 In May, Gucci's creative directory posted a soul searching letter on Instagram,
 informing fashion fans and the world that they would stage two collections per
