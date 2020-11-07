@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Fashionflyer on 07th November 2020"
-title: "New F Series investment by Flipkart, Wearble Fashion is a new canvas and Interview with Amiraah's Founder Pooja Gupta"
+title: "New F Series Investment By Flipkart, Wearble Fashion Is A New Canvas and Interview With Amiraah's Founder Pooja Gupta"
 teaser: "Flipkart is leading as e-commerce brand with their new F series investment in USPL. Wearable Art is in Fashion and what Pooja Gupta has to share about their Kanpur based brand; Amiraah"
 meta_description: "Fashion Literacy newsletter of 07th November brings summary of new Fipkart investment in USPL, wearable art in Fashion, and interivew of Amiraah's founder Pooja Gupta."
 categories:
@@ -89,3 +89,10 @@ purview of sensibility and sustainability.
 
 Read about this interview in detail at [Amiraah Founder Pooja Gupta](https://www.fibre2fashion.com/interviews/face2face/amiraah/pooja-gupta/12618-1/)
 
+<hr>
+
+To follow website updates and recive them on emails [Subscribe to
+FashionLiteracy](https://feedburner.google.com/fb/a/mailverify?uri=Fashionliteracy&amp;loc=en_US).
+
+To know more news on 6th November 2020 and to stay updated, read our [Free
+Newsletter](http://newsletter.fashionliteracy.com/?edition_id=af4ead10-2055-11eb-88b8-0cc47a0d1609).
