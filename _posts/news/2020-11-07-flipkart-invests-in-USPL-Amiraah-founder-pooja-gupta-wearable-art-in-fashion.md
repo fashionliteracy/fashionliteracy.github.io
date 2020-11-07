@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Fashionflyer on 07th November 2020"
-title: "New F Series Investment By Flipkart, Wearble Fashion Is A New Canvas and Interview With Amiraah's Founder Pooja Gupta"
+title: "New F Series Investment By Flipkart, Wearable Fashion Is A New Canvas and Interview With Amiraah's Founder Pooja Gupta"
 teaser: "Flipkart is leading as e-commerce brand with their new F series investment in USPL. Wearable Art is in Fashion and what Pooja Gupta has to share about their Kanpur based brand; Amiraah"
 meta_description: "Fashion Literacy newsletter of 07th November brings summary of new Fipkart investment in USPL, wearable art in Fashion, and interivew of Amiraah's founder Pooja Gupta."
 categories:
@@ -79,8 +79,8 @@ fashion repertoire proudly features brands and fashion designers that are
 whole-heartedly dedicated to preserving the beauty and artisanship of domestic
 Indian textile arts.  
 
-Amiraah is dedicated to supporting domestic Indian textfile arts. They have populated their store 
-with hand-printed blocks, antique doors showcasing vignettes of Shreenath kee, retro mirror with wooden shoe moulds, 
+Amiraah is dedicated to supporting domestic Indian textile arts. They have populated their store 
+with hand-printed blocks, antique doors showcasing vignettes of Shreenath jee, retro mirror with wooden shoe moulds, 
 and vintage brass door knobs.
 
 Additionaly, Pooja Gupta also discusses the reason of choosing Kanpur and how she onboards a designer with the 
