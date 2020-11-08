@@ -27,7 +27,7 @@ header:
 
 ### Traditional Vietnamese Culture Inspires Modern Fashion Designers
 
-Vietnam's Ho Chi Min City witnessed "Mong Binh Thuong" (Simple Dream)
+Vietnam's Ho Chi Minh City witnessed "Mong Binh Thuong" (Simple Dream)
 exhibintion.  A quite famous designer, Thuy Nguyen, showcased 60 works that
 comprised of silk, brocade, and folk tale patterns.
 
@@ -46,7 +46,7 @@ designs not only to attract audiences but also to help citizens remember their
 culture better and for long.
 
 There are many more examples of use of symbols from the civilization such as
-rice, hemp fabric, and cotton to make couture and read-to-wear collections. 
+rice, hemp fabric, and cotton to make couture and ready-to-wear collections. 
 
 Culture expert Pham Vu Tung also appreciates young designers choosing
 tranditional and cultural stories for their new collections. 
@@ -61,7 +61,7 @@ We tend to find inspiring individuals around us and follow them in order to live
 Some great and talented individuals are the likes of Margot Robbie and Amal Clooney.
 
 Many of us might have already heard about Jason Wu, who was a finalist in the
-CFDA/Vogue Fashion Fund in 2008.  Currently, He is the Director of Hugo Boss
+CFDA/Vogue Fashion Fund in 2008.  Currently, he is the Director of Hugo Boss
 womens' ready to wear and accessories. 
 
 <p><img src="{{site.url}}/images/resized/480/newsletter_08_nov_post2.jpg" alt="Inspiring Asian Fashion Designers" srcset="            {{site.url}}/images/resized/320/newsletter_08_nov_post2.jpg 320w,            {{site.url}}/images/resized/480/newsletter_08_nov_post2.jpg 480w,            {{site.url}}/images/resized/600/newsletter_08_nov_post2.jpg 600w,    " /></p>
@@ -69,7 +69,7 @@ womens' ready to wear and accessories.
 He also is growing his epononymous
 brand.  Jason has also been praised by none other than Michelle Obama for his
 impeccable attention to fit and detail and unique understanding of how women
-want to dress and feel in theircloting.
+want to dress and feel in their cloting.
 
 Another similar inspiring personality is Gurung, who migrated to America from
 Nepal, where he says that women in their full feminine glory, in colour and
