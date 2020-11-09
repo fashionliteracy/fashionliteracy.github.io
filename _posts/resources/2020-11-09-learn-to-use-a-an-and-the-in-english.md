@@ -15,7 +15,7 @@ meta_description: Learn English grammar online free; how to correctly use articl
 categories:
   - resources
   - tutorials
-  - English
+  - english
 tags:
   - GD/PI
   - GD Topic
