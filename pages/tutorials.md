@@ -11,11 +11,6 @@ permalink: "/resources/tutorials/"
 <br>
 <br>
 
-> <h3> Coming Soon..</h3>
->
->
-<ul>
-    {% for post in site.categories.tutorials %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{: .t60 }
+{% include list-posts category='tutorials' %}
+
