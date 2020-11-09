@@ -23,7 +23,7 @@ tags:
 # Styling
 #
 image:
-    title: fashion_slaves_mbxvfk.png
+    title: english_grammar_a_an_the.jpg
 #thumb:
 #    homepage:
 #    caption:
