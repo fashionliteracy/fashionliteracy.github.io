@@ -7,9 +7,9 @@ subheadline: "Fashionflyer on 09th November 2020"
 title: "Supernova, a brand of Federico, will become the new fashion statement in 2021"
 teaser: "Can you think of exchanging your old clothes for the new ones?
 Federico is working towards bringing this new concept in the fashion industry.
-While tech and sustainability are merging in Amesterdam, 3D fashion design
+While tech and sustainability are merging in Amsterdam, 3D fashion design
 software face resistance in fashion industry."
-meta_description: "Fashion Literacy newsletter of 09th November brings stories on why Supernova is set to become new fashion statement of 2021, while tech and sustainbility are merging in Amesterdam."
+meta_description: "Fashion Literacy newsletter of 09th November brings stories on why Supernova is set to become new fashion statement of 2021, while tech and sustainbility are merging in Amsterdam."
 categories:
   - news
   - newsletter
@@ -44,9 +44,9 @@ Federico got this idea from automobile exchange... There are some more details a
 [Federico Bellezza's brand Supernova will be the new fashion statement of 2021](https://markets.businessinsider.com/news/stocks/federico-bellezza-s-brand-supernova-will-be-the-new-fashion-statement-of-2021-1029778450)
 
 
-### Tech and Sustainability Merges in Amesterdam 
+### Tech and Sustainability Merges in Amsterdam 
  
-Amesterdam's foreign investment agency manager, Marike Geertsma, says that they are helping
+Amsterdam's foreign investment agency manager, Marike Geertsma, says that they are helping
 fashion to reimagine its business models. Fashion startups are getting a real push to 
 experiment in both technology and sustainability in the areas of 3D digital design, biodesigned textiles
 and new manufacturing techniques.
