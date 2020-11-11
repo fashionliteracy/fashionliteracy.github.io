@@ -101,8 +101,15 @@ It was already surprizing to see this fashion designer becoming an actor.
 <p><img src="{{site.url}}/images/resized/480/newsletter_10_nov_post4.jpg" alt="VF Corporation acquires Supreme for 2 Bn dollars" srcset="            {{site.url}}/images/resized/320/newsletter_10_nov_post4.jpg 320w,            {{site.url}}/images/resized/480/newsletter_10_nov_post4.jpg 480w,            {{site.url}}/images/resized/600/newsletter_10_nov_post4.jpg 600w,    " /></p>
 
 Now this actor cum fashion designer is gracing the cover of of November issue of 'Grazia India'.
-Masaba looks quite resplendent on the cover. She also own a lable 'House of Masaba' and has become
+Masaba looks quite resplendent on the cover. She also owns a label 'House of Masaba' and has become
 every celebrity's favourite.
 
 Please read more about her in [Masaba Gupta Turns Cover Girl for Grazia](https://www.socialnews.xyz/?p=3149660)
 
+<hr>
+
+To follow website updates and recive them on emails [Subscribe to
+FashionLiteracy](https://feedburner.google.com/fb/a/mailverify?uri=Fashionliteracy&amp;loc=en_US).
+
+To know more news on 10th November and to stay updated, read our [Free
+Newsletter](http://newsletter.fashionliteracy.com/?edition_id=30350930-22b1-11eb-88b8-0cc47a0d1609).
