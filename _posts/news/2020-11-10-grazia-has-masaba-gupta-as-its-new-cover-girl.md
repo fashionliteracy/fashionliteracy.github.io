@@ -8,7 +8,7 @@ title: "Grazia Has Masaba Gupta As Its New Cover Girl"
 teaser: "UK's Purple Dot raises more funds. Masaba Gupta has become the new
 face of Grazia. This multi talented individual is everyone's favourite. Supreme
 has been acquired by VF Corporation. While fashion industry struggles with the
-woes of fast-fashion, Tunisian designers embrance tradition and sustainablity"
+woes of fast-fashion, Tunisian designers embrace tradition and sustainablity"
 meta_description: "Fashion Literacy newsletter of 10th November brings stories
 on Purple Dot, Masaba Gupta, Tunisia Designers, and Supreme"
 
