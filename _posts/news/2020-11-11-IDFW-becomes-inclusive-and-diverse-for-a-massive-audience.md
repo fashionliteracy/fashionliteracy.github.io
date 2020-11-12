@@ -5,9 +5,9 @@ layout: page
 #
 subheadline: "Fashionflyer on 11th November 2020"
 title: "IDFW Becomes Inclusive And Diverse For A Massive Audience"
-teaser: "International Digital Fashion Week gets close to billion impressions and gets
+teaser: "International Digital Fashion Week gets close to a billion impressions and gets
 acceptance from changing audiences. Fashion runways are here to stay and to be 
-stylist storytelling is an important skill to learn and acquire."
+a stylist storytelling is an important skill to learn and acquire."
 meta_description: "Fashion Literacy newsletter of 11th November brings stories of the importance of both Physical and Digital shows when IDFW receives wider
 acceptance. Read to know about What it takes to be a stylist?"
 
