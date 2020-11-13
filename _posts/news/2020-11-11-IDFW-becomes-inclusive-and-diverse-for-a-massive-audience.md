@@ -87,5 +87,5 @@ About Dressing Clients in
 To follow website updates and recive them on emails [Subscribe to
 FashionLiteracy](https://feedburner.google.com/fb/a/mailverify?uri=Fashionliteracy&amp;loc=en_US).
 
-To know more news on 10th November and to stay updated, read our [Free
+To know more news on 11th November and to stay updated, read our [Free
 Newsletter](http://newsletter.fashionliteracy.com/?edition_id=30350930-22b1-11eb-88b8-0cc47a0d1609).
