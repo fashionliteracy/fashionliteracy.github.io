@@ -54,7 +54,10 @@ are still approaching [TikTok and Instagram] as a way to increase their brand aw
 
 <p><img src="{{site.url}}/images/resized/480/newsletter_17_nov_post2.jpg" alt="" srcset="            {{site.url}}/images/resized/320/newsletter_17_nov_post2.jpg 320w,            {{site.url}}/images/resized/480/newsletter_17_nov_post2.jpg 480w,            {{site.url}}/images/resized/600/newsletter_17_nov_post2.jpg 600w,    " /></p>
 
-The short-form video has helped a surge in styling videos or "how-to's" some content creators including Xavier said that the rise of the short-form video came at just the right time with both TikTok and its new competitor, Instagram's short-form video feature, Xavier only sees short form growing.
+The short-form video has helped a surge in styling videos or "how-to's from some
+content creators. Xavier said that the rise of the short-form video
+came at just the right time with both TikTok and its new competitor,
+Instagram's short-form video feature. She only sees short form growing.
 
 Xavier says that the Gen Z audience is just going more for short-form videos in general. Read more in [Luxury fashion is surging on TikTok, but turning Gen-Z viewers into customers is a complicated task for brands](https://www.businessinsider.com/luxury-fashion-is-surging-on-tiktok-but-brands-face-challenges-2020-11)
 
