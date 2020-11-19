@@ -36,7 +36,7 @@ Maison de Mode is an ethical luxury fashion online retailer. The platform curren
 
 Outside of her role as curator, Hearst has her hands deep in the nonprofit world. She runs well beings with co-founder Breanna Schultz, a movement combining animal welfare and environmental protection.
 
-She says that in order to do work She can't wear my pajamas because then she is not in the right frame of mind.
+She says that in order to do work she can't wear her pajamas because then she is not in the right frame of mind.
 She also does Instagram Lives for Maison de Mode and also for a nonprofit in animal welfare and conservation.
 
 Hearst believes in what Jane Goddall said once: Everything is connected, everyone can make a difference.
