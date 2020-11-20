@@ -37,7 +37,7 @@ The Style Trend Show, Number 1 Spring event Arizona has evolved into a hybrid li
 
 Fashionistas can watch this virtual show on Saturday, November 21st from 7:00 pm to 8:00 pm (MST) via smart tv, laptop, or mobile with a ticketed link.
 
-{% responsive_image path: images/newsletter_18_nov_post1.jpg alt="Phoenix Fashion Week goes virtual and more interactive" %}
+<p><img src="{{site.url}}/images/resized/480/newsletter_18_nov_post1.jpg" alt="" srcset="            {{site.url}}/images/resized/320/newsletter_18_nov_post1.jpg 320w,            {{site.url}}/images/resized/480/newsletter_18_nov_post1.jpg 480w,    " /></p>
 
 Phoenix Fashion Week will conduct six virtual runway shows, virtual meet and greets, and digital style games to showcase collections from six couture and ready-to-wear designers. More than 200 models will attend the casting. There is a special staycation package for fashionistas to enjoy the Style Trend show from the comfort of their own Bungalow.
 
@@ -53,7 +53,7 @@ The mask market in the U.S. could be worth a staggering $6 billion by 2021, keyB
 In addition to saturating the culture, Mask is becoming a symbol of our self-expression and political inclination.
 It may take time before everyone feels comfortable and probably this effect will subside once a vaccine is found and widely distributed.
 
-{% responsive_image path: images/newsletter_18_nov_post2.jpg alt="Face Mask is the new fashion accessory" %}
+<p><img src="{{site.url}}/images/resized/480/newsletter_18_nov_post2.jpg" alt="" srcset="            {{site.url}}/images/resized/320/newsletter_18_nov_post2.jpg 320w,            {{site.url}}/images/resized/480/newsletter_18_nov_post2.jpg 480w,            {{site.url}}/images/resized/600/newsletter_18_nov_post2.jpg 600w,            {{site.url}}/images/resized/800/newsletter_18_nov_post2.jpg 800w,    " /></p>
 
 People might wear masks more because of depleting air quality and flu season. Most people think of masks as a hindrance in daily life, esp the younger generation.
 
@@ -69,7 +69,7 @@ The online fashion e-commerce market is expected to grow at a CAGR of 11.5 perce
 The key for young companies is to develop a unique vision and mission that can break through the loud noise of the clothing industry.
 It is time to forge partnerships with synergistic and non-competing firms to scale operations.
 
-{% responsive_image path: images/newsletter_18_nov_post3.jpg alt="Grown your e-commerce brand with these marketing strategies." %}
+<p><img src="{{site.url}}/images/resized/480/newsletter_18_nov_post3.jpg" alt="" srcset="            {{site.url}}/images/resized/320/newsletter_18_nov_post3.jpg 320w,            {{site.url}}/images/resized/480/newsletter_18_nov_post3.jpg 480w,            {{site.url}}/images/resized/600/newsletter_18_nov_post3.jpg 600w,    " /></p>
 
 Influencer marketing is one of the rapid ways to build awareness and drive customer engagement through social media. More than 60%
 of influencers are using AI methods to grow their followings.
